@@ -1,0 +1,13 @@
+{
+    "name": "Twitter",
+    "alias": "twitter",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Twitter\\Providers\\TwitterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

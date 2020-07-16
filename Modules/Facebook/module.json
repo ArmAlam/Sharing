@@ -1,0 +1,13 @@
+{
+    "name": "Facebook",
+    "alias": "facebook",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Facebook\\Providers\\FacebookServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

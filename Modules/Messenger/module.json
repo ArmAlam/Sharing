@@ -1,0 +1,13 @@
+{
+    "name": "Messenger",
+    "alias": "messenger",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Messenger\\Providers\\MessengerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
